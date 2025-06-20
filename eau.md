@@ -72,3 +72,15 @@ eaux minérales naturelles de quézac.
 lieu-dit molines 48320 ispagnac.
 lozère - france.
 service conseils consommateurs : 08 08 80 00 64.
+
+# questions.
+
+- pouvez-vous me donner une liste d'usines fabriquant des bouteilles d'eau ?
+
+- pouvez-vous me fournir une liste de sources d'eau potable en france ?
+
+- savez-vous où je peux obtenir la liste exhaustive des sources d'eau potable en france ?
+
+ - pouvez-vous me fournir une liste d'entreprise transporteurs d'eau potable en france ?
+
+- pouvez-vous me parler de l'évaluation de l'eau avant l'embouteillement ?
