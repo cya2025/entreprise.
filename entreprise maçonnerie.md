@@ -3,9 +3,8 @@ amir.bentata@feco-travaux.fr.\
 bureau 326 59 rue ponthieu.\
 75008 paris.
 
-sarl kevin limelette.\
 06 79 58 40 50.\
-https://www.sarlkevinlimelette.com.\sarlkevinlimelette@orange.fr.
+sarlkevinlimelette@orange.fr.
 
 # questions.
 
